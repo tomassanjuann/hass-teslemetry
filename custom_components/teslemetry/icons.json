@@ -81,7 +81,12 @@
       },
       "charge_state_conn_charge_cable": {
         "state": {
-          "default": "mdi:ev-plug-tesla:"
+          "default": "mdi:ev-plug-tesla"
+        }
+      },
+      "charge_state_scheduled_charging_mode": {
+        "state": {
+          "default": "mdi:battery-clock"
         }
       }
     },
@@ -545,6 +550,18 @@
       },
       "stream_speedlimitwarning": {
         "default": "mdi:car-speed-limiter"
+      },
+      "stream_gpsheading": {
+        "default": "mdi:compass"
+      },
+     "vehicle_config_exterior_color": {
+        "default": "mdi:palette"
+      },
+      "charge_state_conn_charge_cable": {
+        "default": "mdi:ev-plug-tesla"
+      },
+      "charge_state_fast_charger_type": {
+        "default": "mdi:ev-plug-tesla"
       }
     },
     "switch": {
