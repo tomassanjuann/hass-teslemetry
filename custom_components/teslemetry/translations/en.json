@@ -690,16 +690,16 @@
         "name": "Not Enough Power To Heat"
       },
       "stream_numbrickvoltagemax": {
-        "name": "Brick Number Voltage Maximum"
+        "name": "Battery Brick Number Voltage Maximum"
       },
       "stream_numbrickvoltagemin": {
-        "name": "Brick Number Voltage Minimum"
+        "name": "Battery Brick Number Voltage Minimum"
       },
       "stream_nummoduletempmax": {
-        "name": "Module Number Temperature Max"
+        "name": "Battery Module Number Temperature Max"
       },
       "stream_nummoduletempmin": {
-        "name": "Module Number Temperature Min"
+        "name": "Battery Module Number Temperature Min"
       },
       "stream_originlocation": {
         "name": "Origin Location"
@@ -753,7 +753,7 @@
         "name": "Version"
       },
       "total_pack_energy": {
-        "name": "Battery Energy"
+        "name": "Total pack energy"
       },
       "vehicle_config_exterior_color": {
         "name": "Exterior Color"
