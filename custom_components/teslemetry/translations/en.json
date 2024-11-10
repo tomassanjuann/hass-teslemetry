@@ -495,10 +495,10 @@
         "name": "Brake Pedal Position"
       },
       "stream_brickvoltagemax": {
-        "name": "Battery Cell Voltage Max"
+        "name": "Battery Voltage Max"
       },
       "stream_brickvoltagemin": {
-        "name": "Battery Cell Voltage Min"
+        "name": "Battery Voltage Min"
       },
       "stream_cartype": {
         "name": "Car Type"
