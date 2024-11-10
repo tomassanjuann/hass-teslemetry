@@ -545,9 +545,6 @@
       "stream_routeline": {
         "default": "mdi:map"
       },
-      "stream_soc": {
-        "default": "mdi:battery"
-      },
       "stream_speedlimitwarning": {
         "default": "mdi:car-speed-limiter"
       },
