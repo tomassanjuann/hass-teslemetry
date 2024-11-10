@@ -7,6 +7,12 @@
           "on": "mdi:hvac"
         }
       },
+      "charge_state_preconditioning_enabled": {
+        "state": {
+          "off": "mdi:hvac-off",
+          "on": "mdi:hvac"
+        }
+      },
       "storm_mode_active": {
         "state": {
           "off": "mdi:weather-sunny",
@@ -42,17 +48,52 @@
           "off": "mdi:tire",
           "on": "mdi:car-tire-alert"
         }
+      },
+      "vehicle_state_dashcam_state": {
+        "state": {
+          "off": "mdi:camera-off",
+          "on": "mdi:camera"
+        }
+      },
+      "vehicle_state_df": {
+        "state": {
+          "off": "mdi:car-door-lock",
+          "on": "mdi:car-door-lock-open"
+        }
+      },
+      "vehicle_state_dr": {
+        "state": {
+          "off": "mdi:car-door-lock",
+          "on": "mdi:car-door-lock-open"
+        }
+      },
+      "vehicle_state_pf": {
+        "state": {
+          "off": "mdi:car-door-lock",
+          "on": "mdi:car-door-lock-open"
+        }
+      },
+      "vehicle_state_pr": {
+        "state": {
+          "off": "mdi:car-door-lock",
+          "on": "mdi:car-door-lock-open"
+        }
+      },
+      "charge_state_conn_charge_cable": {
+        "state": {
+          "default": "mdi:ev-plug-tesla:"
+        }
       }
     },
     "button": {
       "boombox": {
-        "default": "mdi:volume-high"
+        "default": "mdi:boombox"
       },
       "enable_keyless_driving": {
         "default": "mdi:car-key"
       },
       "flash_lights": {
-        "default": "mdi:flashlight"
+        "default": "mdi:car-light-high"
       },
       "homelink": {
         "default": "mdi:garage"
@@ -90,6 +131,12 @@
     "cover": {
       "charge_state_charge_port_door_open": {
         "default": "mdi:ev-plug-tesla"
+      },
+      "vehicle_state_ft": {
+        "default": "mdi:car-door-lock-open"
+      },
+      "vehicle_state_rt": {
+        "default": "mdi:car-door-lock-open"
       }
     },
     "device_tracker": {
@@ -196,7 +243,7 @@
       "charge_state_charging_state": {
         "default": "mdi:ev-station",
         "state": {
-          "disconnected": "mdi:connection",
+          "disconnected": "mdi:power-plug-outline",
           "no_power": "mdi:power-plug-off-outline",
           "starting": "mdi:play-circle",
           "stopped": "mdi:stop-circle"
