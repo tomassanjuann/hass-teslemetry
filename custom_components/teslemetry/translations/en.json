@@ -415,7 +415,7 @@
       "climate_state_outside_temp": {
         "name": "Outside Temperature"
       },
-      "climate_state_Passenger_temp_setting": {
+      "climate_state_passenger_temp_setting": {
         "name": "Passenger Temperature Setting"
       },
       "drive_state_active_route_energy_at_arrival": {
@@ -713,7 +713,7 @@
       "stream_pairedphonekeyandkeyfobqty": {
         "name": "Number of paired Keys"
       },
-      "stream_Passengerseatbelt": {
+      "stream_passengerseatbelt": {
         "name": "Passenger Seat Belt"
       },
       "stream_pedalposition": {
@@ -735,7 +735,7 @@
         "name": "Sentry Mode"
       },
       "stream_soc": {
-        "name": "SoC"
+        "name": "Battery SoC"
       },
       "stream_speedlimitwarning": {
         "name": "Speed Limit Warning"
